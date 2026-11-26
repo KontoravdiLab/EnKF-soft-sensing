@@ -5,7 +5,7 @@
 This repository contains the code accompanying the preprint:
 
 > **Soft Sensing of Intracellular States for CHO Cell Bioprocessing with Ensemble Kalman Filters**
-> Luxi Yu, Antonio del Rio Chanona, Cleo Kontoravdi
+> Luxi Yu, Antonio del Rio Chanona, Cleo Kontoravdi.
 > Journal of Process Control (2026). doi: 10.1016/j.jprocont.2026.103875
 
 ## Overview
